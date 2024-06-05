@@ -3,7 +3,7 @@
 int main() {
     int num; // Variable to store the user input number
 
-	    //Okonta Destiny
+        //Okonta Destiny
        //CMP2307643
       //D1010520
      //Software Engineering 
